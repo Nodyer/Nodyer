@@ -3,7 +3,7 @@
 
 I'm Nodyer, an Electrical Engineering student at [Unesp - Bauru](https://www.bauru.unesp.br/), with an interest in specializing in the field of Data Science and Computer Vision. I have experience in robotics and automation projects, utilizing Python, OpenCV, microcontrollers, and Scrum framework practices.
 
-I acted as Marketing Director in a robotics and automation extension project ([IEEE RAS UNESP Bauru](https://www.instagram.com/rasunespbauru/)), where I developed skills such as leadership, communication, metrics analysis, project management, OKRs, and the use of tools like Trello, Miro, and Notion.
+I acted as Marketing Director in a robotics and automation extension project ([IEEE RAS UNESP Bauru](https://www.instagram.com/rasunespbauru/)), where I developed skills such as leadership, communication, metrics analysis, project management, OKRs, and the use of tools like Trello, Miro and Notion.
 
 💻 Tech Stack
 ===
